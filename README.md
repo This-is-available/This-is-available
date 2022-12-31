@@ -2,11 +2,11 @@
 
 name: unkown
 
-age: unkown
+age: 20
 
 gender: unkown
 
-occupation: unkown
+occupation: student
 
 hobbies: unkown
 

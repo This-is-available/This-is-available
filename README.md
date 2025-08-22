@@ -1,15 +1,1 @@
-# personal profile
-
-name: Yujin Huang
-
-age: 22
-
-gender: unkown
-
-occupation: student
-
-hobbies: unkown
-
-# plans for future
-
-...
+Hello, I'm Yujin Huang (/ˈjuːdʒɪn hwɑːŋ/, 黄与进 in Chinese). I'm currently a PhD student in department of computer science and engineering in Pennsylvania State University. I work with Professor Timothy Zhu on sustainability of hardware devices and performance debugging. For more information, please go to my personal website [Yujin Huang](https://www.yujinhuang.icu/).
